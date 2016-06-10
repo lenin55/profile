@@ -75,13 +75,13 @@ h2 {
 /* top banner content*/
 
 .topCont {
-	background: url(../images/top_bg.jpg) no-repeat center center;
+	background: url(../images/lenin.jpeg) no-repeat center center;
 	min-height: 830px;
 	background-size: cover;
 	position: relative;
 }
 .topCont1 {
-	background: url(../images/top_bg1.jpg) no-repeat center center;
+	background: url(../images/leni.jpg) no-repeat center center;
 	min-height: 1100px;
 	background-size: cover;
 	position: relative;
@@ -89,7 +89,7 @@ h2 {
 .topInfo {
 	position: absolute;
 	bottom: 40%;
-	color: #1d1d1f;
+	color: #ffffff;
 }
 .topInfo p {
 	font: normal 80px 'ralewayextralight';
@@ -101,7 +101,7 @@ h2 {
 }
 .topInfo a {
 	font: normal 20px 'ralewayextrabold';
-	color: #1d1d1f;
+	color: #a4a4a4;
 	background: url(../images/link.png) no-repeat 24px 34px;
 	padding: 0 2px 27px 0;
 }
@@ -1310,7 +1310,7 @@ margin: 0 29px 0 0;
 	color: #1d1d1f;
 }
 .topCont {
-    background: url(../images/top_bg.jpg) no-repeat center center;
+    background: url(../images/lenin.jpeg) no-repeat center center;
     height: 600px;
     background-size: cover;
     position: relative;
@@ -1336,7 +1336,7 @@ padding: 0;
 }
 @media screen and (max-width: 480px) {
 .topCont {
-background: url(../images/top_bg_small.jpg) no-repeat center center;
+background: url(../images/leni.jpg) no-repeat center center;
 background-size: cover;
 position: relative;
 }

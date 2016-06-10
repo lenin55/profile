@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><FtpSiteDeployer basedir="/" createbkp="yes" custompath="" directorycloaking="CVS" host="ftp.uk.tn" pass="9498069804" port="21" project-type="HTML5" user="uktn_17173169"/></root>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><FtpSiteDeployer basedir="/htdocs" createbkp="no" custompath="" directorycloaking="images" host="ftp.uk.tn" pass="9498069804" port="21" project-type="HTML5" user="uktn_17173169"/></root>
