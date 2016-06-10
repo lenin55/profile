@@ -1307,7 +1307,7 @@ margin: 0 29px 0 0;
 .topInfo {
 	position: absolute;
 	bottom: 20%;
-	color: #1d1d1f;
+	color: #ffffff;
 }
 .topCont {
     background: url(../images/lenin.jpeg) no-repeat center center;
@@ -1361,7 +1361,7 @@ padding: 0 0 0 31%;
 }
 .topInfo a {
 	font: normal 20px 'ralewayextrabold';
-	color: #1d1d1f;
+	color: #a4a4a4;
 	background: url(../images/link.png) no-repeat 24px 34px;
 	padding: 0 2px 27px 0;
 	position: relative;
